@@ -41,6 +41,9 @@ This project is for academic and educational purposes only. All market/company r
 - Linking quantitative indicators (returns/volatility) to simple, interpretable signals
 - Using dashboards to compare tickers and surface patterns quickly
 
+## Contributors
+This project was completed as a group effort.
+
 ## License
 
 This project is available under the MIT License. See 'LICENSE' for details.
