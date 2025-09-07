@@ -33,7 +33,7 @@ The work is informed by:
 
 ## Disclaimer
 
-This project is for educational and reference purposes only. All market data is public/aggregate and used for non-commercial research and analysis. This work is not affiliated with or endorsed by any company or data vendor. No proprietary or confidential information is included.
+This project is for academic and educational purposes only. All market/company references are based on publicly available information and used under fair dealing/fair use for non-commercial research and analysis. This work is not affiliated with, sponsored by, or endorsed by any company, exchange, or data vendor. No proprietary or confidential information has been used. All trademarks and logos remain the property of their respective owners. Nothing herein constitutes investment advice.
 
 ## Key Learnings
 
