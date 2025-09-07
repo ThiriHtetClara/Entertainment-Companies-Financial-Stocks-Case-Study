@@ -26,6 +26,11 @@ The work is informed by:
 - Tableau: interactive filtering, Top-N, tooltips, and comparative views
 - Methods: returns & rolling metrics, correlations, basic trend signals, comparative dashboards
 
+## Contents
+- 'data/' — processed CSV
+- 'notebooks/' — Jupyter notebooks (data pull + RQ2 + RQ3)
+- 'dashboards/tableau/' — Tableau workbook ('.twbx')
+
 ## Disclaimer
 
 This project is for educational and reference purposes only. All market data is public/aggregate and used for non-commercial research and analysis. This work is not affiliated with or endorsed by any company or data vendor. No proprietary or confidential information is included.
