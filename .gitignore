@@ -1,0 +1,16 @@
+# OS
+.DS_Store
+Thumbs.db
+
+# Python / notebooks
+__pycache__/
+.ipynb_checkpoints/
+*.pyc
+.venv/
+.env
+
+# temp
+*.tmp
+*.log
+*.bak
+~$*
